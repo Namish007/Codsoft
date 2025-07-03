@@ -3,7 +3,7 @@
 
 def calculator():
     while True:
-        print("\nHarsh's Calculator")
+        print("\nNamish's Calculator")
         num1 = float(input("Enter first number: "))
         num2 = float(input("Enter second number: "))
 
